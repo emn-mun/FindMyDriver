@@ -1,0 +1,6 @@
+"found-drivers.none.label" = "There's no driver to follow yet. Pick one using the menu button below 😉";
+"driver.address.unknown" = "Unknown address";
+"retry.message" = "Please try again later";
+"find.driver" = "Find my Driver";
+"ok.message" = "OK";
+"failed.request" = "Current Request could not be performed";

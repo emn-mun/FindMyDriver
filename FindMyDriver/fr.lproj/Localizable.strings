@@ -1,0 +1,6 @@
+"found-drivers.none.label" = "Aucun driver à suivre pour le moment. Tu peux en ajouter un avec le bouton menu ci-dessous 😉";
+"driver.address.unknown" = "Address inconue";
+"retry.message" = "Veuillez réessayer plus tard";
+"find.driver" = "Trouver mon chauffeur";
+"ok.message" = "D'accord";
+"failed.request" = "La demande actuelle n'a pas pu être exécutée";
